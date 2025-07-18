@@ -16,7 +16,7 @@ export default function HomeScreen() {
           style={{ marginLeft: 12, padding: 8, backgroundColor: '#eee', borderRadius: 8 }}
           onPress={() => router.push('/settings')}
         >
-          <Text>Ustawienia konta</Text>
+          <Text>Ustawienia konta!</Text>
         </TouchableOpacity>
         <TouchableOpacity
           style={{ marginLeft: 12, padding: 8, backgroundColor: '#eee', borderRadius: 8 }}
